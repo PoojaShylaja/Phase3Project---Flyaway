@@ -1,0 +1,53 @@
+@charset "ISO-8859-1";
+#Submit{
+border-radius: 10px;
+background:dodgerblue;
+border-bottom:1px;
+color: solid white;
+padding: 10px 10px;
+margin-top:none;
+border:none;
+outline:none;
+}
+th, td {
+  padding: 10px;
+  text-align: Center;
+  background:PowderBlue;
+  color: Black;
+}
+table {
+  border: 1px solid black;
+  background:rgb(50,50,50);
+  color: #8FBC8F;
+  position: absolute;
+  left:25%;
+  top:40%;
+}
+h3{
+ color:MediumSeaGreen;
+  font-family:Papyrus;
+  font-weight:normal;
+  font-size: 400%;
+  position: absolute;
+  left:40%;
+  top: -10%;
+  }
+ h4{
+  color:Navy;
+  font-family:Georgia;
+  font-weight:normal;
+  font-size: 200%;
+  position: absolute;
+  left:40%;
+  bottom:65%;
+  } 
+  
+  p{
+
+color:Olive;
+font-weight: bold;
+position: absolute;
+left:35%;
+bottom:60%;
+}
+  

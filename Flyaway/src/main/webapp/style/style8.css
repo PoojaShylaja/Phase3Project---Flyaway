@@ -1,0 +1,50 @@
+@charset "ISO-8859-1";
+
+h4{
+  color:olive;
+  font-family:Papyrus;
+  font-weight:normal;
+  font-size: 200%;
+  position: absolute;
+  left:35%;
+  top: -2%;
+  }
+  
+h5{
+  color:black;
+  font-family:Georgia;
+  font-weight:normal;
+  font-size:150%;
+  position: absolute;
+  left:40%;
+  top:10%;
+  }  
+
+#Submit{
+border-radius: 10px;
+background:dodgerblue;
+border-bottom:1px;
+color: solid white;
+padding: 10px 10px;
+margin-top:none;
+border:none;
+outline:none;
+margin-left:1200px;
+}
+th, td {
+  padding: 10px;
+  text-align: Center;
+  background:powderblue;
+  color:black;
+}
+th {
+  padding: 10px;
+  text-align: Center;
+  background:grey;
+  color: black;
+}
+table {
+  border: 1px solid black;
+  background:rgb(50,50,50);
+  color:black;
+}

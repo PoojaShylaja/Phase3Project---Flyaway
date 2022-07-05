@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+
+
+.container
+{
+top:50%;
+left:40%;
+position: absolute;
+transform:translate(-35%,-35%);
+}
+
+#Submit{
+border-radius: 10px;
+background:dodgerblue;
+border-bottom:1px;
+color: solid white;
+padding: 10px 20px;
+margin-top:15px;
+border:none;
+outline:none;
+margin-left:250px;
+
+}
+
+.card{
+padding:60px 40px 50px 40px;
+background:PowderBlue;
+border-radius:10px;
+}
+h1{
+  color:IndianRed;
+  font-family:Papyrus;
+  font-weight:normal;
+  font-size: 200%;
+  
+  }
+
+  

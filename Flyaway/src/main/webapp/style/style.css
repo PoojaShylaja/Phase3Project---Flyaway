@@ -1,0 +1,59 @@
+@charset "ISO-8859-1";
+
+h1 {
+	
+  color:MediumSeaGreen;
+  font-family:Lucida Handwriting;
+  font-weight: bold;
+  font-size: 600%;
+text-align: center;
+  
+  
+}
+
+h2{
+  color:MediumSeaGreen;
+  font-family:Papyrus;
+  font-weight:normal;
+  font-size: 400%;
+ text-align: center;
+  }
+  
+  .SIGNUP{  
+  padding:10px;  
+  border:3px solid Grey;  
+  border-radius:10px;   
+  position: absolute;
+  left: 50%;
+  top: 60%;
+  transform: translate(-50%, -60%); 
+}  
+
+ .SIGNIN{  
+  padding:10px;  
+  border:3px solid Grey;  
+  border-radius:10px;   
+  position: absolute;
+  left:50%;
+  top: 70%;
+  transform: translate(-50%, -60%); 
+} 
+
+  .adminlogin{  
+  padding:10px;  
+  border:3px solid Grey;  
+  border-radius:10px;   
+  position: absolute;
+  left: 95%;
+  top: 5%;
+  transform: translate(-50%, -50%); 
+}
+
+
+ 
+
+ 
+
+
+
+
